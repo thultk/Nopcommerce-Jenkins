@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.bankguru.payment.Level_22_Multiple_Environment">
+        <methods>
+          <include name="Employee_01_Add_New_Employee"/>
+          <include name="Employee_06_Assigned_Dependents"/>
+          <include name="Employee_04_Contact_Details"/>
+          <include name="afterClass"/>
+          <include name="Employee_02_Upload_Avatar"/>
+          <include name="deleteAllFileInFolder"/>
+          <include name="Employee_03_Personal_Details"/>
+          <include name="Employee_05_Emergency_Details"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.bankguru.payment.Level_22_Multiple_Environment -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

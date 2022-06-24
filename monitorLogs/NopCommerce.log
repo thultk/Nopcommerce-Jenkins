@@ -1,0 +1,131 @@
+[INFO ] [2022-01-27 17:30:36,179] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-01-27 17:30:51,783] Post-Condition: Close browserchrome
+[INFO ] [2022-01-27 17:30:51,785] OS name = windows 8.1
+[INFO ] [2022-01-27 17:30:51,793] Driver instance name = windows 8.1
+[INFO ] [2022-01-27 17:30:52,959] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-01-27 20:57:13,199] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-01-27 20:57:24,109] Post-Condition: Close browserchrome
+[INFO ] [2022-01-27 20:57:24,110] OS name = windows 8.1
+[INFO ] [2022-01-27 20:57:24,113] Driver instance name = windows 8.1
+[INFO ] [2022-01-27 20:57:25,139] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-01-28 06:35:58,736] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-01-28 06:36:08,683] Post-Condition: Close browserchrome
+[INFO ] [2022-01-28 06:36:08,684] OS name = windows 8.1
+[INFO ] [2022-01-28 06:36:08,688] Driver instance name = windows 8.1
+[INFO ] [2022-01-28 06:36:09,696] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-01-28 06:42:21,829] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-01-28 06:42:31,605] Post-Condition: Close browserchrome
+[INFO ] [2022-01-28 06:42:31,605] OS name = windows 8.1
+[INFO ] [2022-01-28 06:42:31,606] Driver instance name = windows 8.1
+[INFO ] [2022-01-28 06:42:32,528] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-01-28 06:44:14,442] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-01-28 06:44:22,828] Post-Condition: Close browserchrome
+[INFO ] [2022-01-28 06:44:22,828] OS name = windows 8.1
+[INFO ] [2022-01-28 06:44:22,830] Driver instance name = windows 8.1
+[INFO ] [2022-01-28 06:44:24,296] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-01-28 10:13:36,008] Post-Condition: Close browserchrome
+[INFO ] [2022-01-28 10:13:36,010] OS name = windows 8.1
+[INFO ] [2022-01-28 10:13:36,011] 
+[INFO ] [2022-01-28 10:16:00,021] Post-Condition: Close browserchrome
+[INFO ] [2022-01-28 10:16:00,026] OS name = windows 8.1
+[INFO ] [2022-01-28 10:16:00,030] 
+[INFO ] [2022-01-28 10:20:44,288] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-01-28 10:20:53,094] Post-Condition: Close browserchrome
+[INFO ] [2022-01-28 10:20:53,095] OS name = windows 8.1
+[INFO ] [2022-01-28 10:20:53,095] Driver instance name = windows 8.1
+[INFO ] [2022-01-28 10:20:54,290] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-03-26 16:41:47,296] Post-Condition: Close browserchrome
+[INFO ] [2022-03-26 16:41:47,310] OS name = windows 8.1
+[INFO ] [2022-03-26 16:41:47,312] 
+[INFO ] [2022-03-26 16:45:22,653] Post-Condition: Close browserchrome
+[INFO ] [2022-03-26 16:45:22,654] OS name = windows 8.1
+[INFO ] [2022-03-26 16:45:22,654] 
+[INFO ] [2022-03-26 16:52:43,482] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-03-26 16:52:56,694] Post-Condition: Close browserchrome
+[INFO ] [2022-03-26 16:52:56,695] OS name = windows 8.1
+[INFO ] [2022-03-26 16:52:56,695] Driver instance name = windows 8.1
+[INFO ] [2022-03-26 16:52:58,354] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-03-26 16:54:39,955] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-03-26 16:54:48,477] Post-Condition: Close browserchrome
+[INFO ] [2022-03-26 16:54:48,478] OS name = windows 8.1
+[INFO ] [2022-03-26 16:54:48,482] Driver instance name = windows 8.1
+[INFO ] [2022-03-26 16:54:49,540] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-03-31 09:19:49,111] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-03-31 09:20:11,019] Post-Condition: Close browserchrome
+[INFO ] [2022-03-31 09:20:11,020] OS name = windows 8.1
+[INFO ] [2022-03-31 09:20:11,020] Driver instance name = windows 8.1
+[INFO ] [2022-03-31 09:20:12,602] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-03-31 09:26:07,337] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-03-31 09:26:16,246] Post-Condition: Close browserchrome
+[INFO ] [2022-03-31 09:26:16,247] OS name = windows 8.1
+[INFO ] [2022-03-31 09:26:16,249] Driver instance name = windows 8.1
+[INFO ] [2022-03-31 09:26:17,525] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-03-31 09:28:34,368] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-03-31 09:28:42,943] Post-Condition: Close browserchrome
+[INFO ] [2022-03-31 09:28:42,943] OS name = windows 8.1
+[INFO ] [2022-03-31 09:28:42,946] Driver instance name = windows 8.1
+[INFO ] [2022-03-31 09:28:44,387] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-03-31 09:29:55,257] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-03-31 09:30:04,023] Post-Condition: Close browserchrome
+[INFO ] [2022-03-31 09:30:04,024] OS name = windows 8.1
+[INFO ] [2022-03-31 09:30:04,025] Driver instance name = windows 8.1
+[INFO ] [2022-03-31 09:30:05,490] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-03-31 10:08:44,449] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-03-31 10:08:53,426] Post-Condition: Close browserchrome
+[INFO ] [2022-03-31 10:08:53,427] OS name = windows 8.1
+[INFO ] [2022-03-31 10:08:53,427] Driver instance name = windows 8.1
+[INFO ] [2022-03-31 10:08:54,812] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-05-19 09:03:12,982] Post-Condition: Close browserchrome
+[INFO ] [2022-05-19 09:03:13,029] OS name = windows 8.1
+[INFO ] [2022-05-19 09:03:13,036] 
+[INFO ] [2022-05-19 14:18:08,791] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-05-19 14:18:32,793] Post-Condition: Close browserchrome
+[INFO ] [2022-05-19 14:18:32,794] OS name = windows 8.1
+[INFO ] [2022-05-19 14:18:32,796] Driver instance name = windows 8.1
+[INFO ] [2022-05-19 14:18:34,979] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-05-19 14:33:21,230] Post-Condition: Close browserchrome
+[INFO ] [2022-05-19 14:33:21,243] OS name = windows 8.1
+[INFO ] [2022-05-19 14:33:21,247] 
+[INFO ] [2022-05-19 14:36:31,380] Post-Condition: Close browserchrome
+[INFO ] [2022-05-19 14:36:31,392] OS name = windows 8.1
+[INFO ] [2022-05-19 14:36:31,393] 
+[INFO ] [2022-05-19 14:39:52,114] Post-Condition: Close browserchrome
+[INFO ] [2022-05-19 14:39:52,116] OS name = windows 8.1
+[INFO ] [2022-05-19 14:39:52,117] Driver instance name = windows 8.1
+[INFO ] [2022-05-19 14:39:56,275] org.openqa.selenium.chrome.ChromeDriver cannot be cast to org.openqa.selenium.firefox.FirefoxDriver
+[INFO ] [2022-06-05 13:16:26,064] Post-Condition: Close browserchrome
+[INFO ] [2022-06-05 13:16:26,093] OS name = windows 8.1
+[INFO ] [2022-06-05 13:16:26,103] Driver instance name = windows 8.1
+[INFO ] [2022-06-05 13:16:30,278] chrome not reachable
+  (Session info: chrome=102.0.5005.63)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THULTK', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\thule\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63046}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 057c77096f2252051a3096bd43c66191
+[INFO ] [2022-06-05 13:28:11,426] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-06-05 13:28:27,403] Post-Condition: Close browserchrome
+[INFO ] [2022-06-05 13:28:27,403] OS name = windows 8.1
+[INFO ] [2022-06-05 13:28:27,410] Driver instance name = windows 8.1
+[INFO ] [2022-06-05 13:28:28,615] unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=102.0.5005.63)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THULTK', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\thule\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60384}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 19d5ff4552be2832cb7f2d7cd8d5e55d
+[INFO ] [2022-06-05 13:32:25,666] Post-Condition: Close browserchrome
+[INFO ] [2022-06-05 13:32:25,669] OS name = windows 8.1
+[INFO ] [2022-06-05 13:32:25,669] 
+[INFO ] [2022-06-05 13:33:07,775] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-06-05 13:33:23,513] Post-Condition: Close browserchrome
+[INFO ] [2022-06-05 13:33:23,515] OS name = windows 8.1
+[INFO ] [2022-06-05 13:33:23,575] Driver instance name = windows 8.1
+[INFO ] [2022-06-05 13:33:27,761] chrome not reachable
+  (Session info: chrome=102.0.5005.63)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THULTK', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\thule\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58976}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 44b73f624f1c2e12d328ce8e4ca43c55

@@ -1,0 +1,15 @@
+{
+	"firstname":"Angely",
+	"lastname":"Baby",
+	"fullname":"Angely Baby",
+	"username":"angely",
+	"password":"12345678",
+	"statusValue":"Enabled",
+	"PersonalDetail":{
+		"editFirstName":"Jack",
+		"editLastName":"London",
+		"editGender":"Female",
+		"editMartialStatus":"Single",
+		"editNationality":"Vietnamese"
+	}
+}

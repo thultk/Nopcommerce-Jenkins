@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Bank Guru" duration-ms="20725" started-at="2022-06-05T12:33:07Z" finished-at="2022-06-05T12:33:27Z">
+    <groups>
+    </groups>
+    <test name="Run on Chrome" duration-ms="20725" started-at="2022-06-05T12:33:07Z" finished-at="2022-06-05T12:33:27Z">
+      <class name="com.bankguru.payment.Level_22_Multiple_Environment">
+        <test-method status="PASS" signature="deleteAllFileInFolder()[pri:0, instance:com.bankguru.payment.Level_22_Multiple_Environment@61a5b4ae]" name="deleteAllFileInFolder" is-config="true" duration-ms="126" started-at="2022-06-05T12:33:07Z" finished-at="2022-06-05T12:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllFileInFolder -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.bankguru.payment.Level_22_Multiple_Environment@61a5b4ae]" name="beforeClass" is-config="true" duration-ms="13814" started-at="2022-06-05T12:33:07Z" finished-at="2022-06-05T12:33:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Employee_01_Add_New_Employee()[pri:0, instance:com.bankguru.payment.Level_22_Multiple_Environment@61a5b4ae]" name="Employee_01_Add_New_Employee" duration-ms="425" started-at="2022-06-05T12:33:21Z" finished-at="2022-06-05T12:33:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_01_Add_New_Employee -->
+        <test-method status="PASS" signature="Employee_02_Upload_Avatar()[pri:0, instance:com.bankguru.payment.Level_22_Multiple_Environment@61a5b4ae]" name="Employee_02_Upload_Avatar" duration-ms="21" started-at="2022-06-05T12:33:23Z" finished-at="2022-06-05T12:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_02_Upload_Avatar -->
+        <test-method status="PASS" signature="Employee_03_Personal_Details()[pri:0, instance:com.bankguru.payment.Level_22_Multiple_Environment@61a5b4ae]" name="Employee_03_Personal_Details" duration-ms="49" started-at="2022-06-05T12:33:23Z" finished-at="2022-06-05T12:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_03_Personal_Details -->
+        <test-method status="PASS" signature="Employee_04_Contact_Details()[pri:0, instance:com.bankguru.payment.Level_22_Multiple_Environment@61a5b4ae]" name="Employee_04_Contact_Details" duration-ms="79" started-at="2022-06-05T12:33:23Z" finished-at="2022-06-05T12:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_04_Contact_Details -->
+        <test-method status="PASS" signature="Employee_05_Emergency_Details()[pri:0, instance:com.bankguru.payment.Level_22_Multiple_Environment@61a5b4ae]" name="Employee_05_Emergency_Details" duration-ms="16" started-at="2022-06-05T12:33:23Z" finished-at="2022-06-05T12:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_05_Emergency_Details -->
+        <test-method status="PASS" signature="Employee_06_Assigned_Dependents()[pri:0, instance:com.bankguru.payment.Level_22_Multiple_Environment@61a5b4ae]" name="Employee_06_Assigned_Dependents" duration-ms="17" started-at="2022-06-05T12:33:23Z" finished-at="2022-06-05T12:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employee_06_Assigned_Dependents -->
+        <test-method status="PASS" signature="afterClass(java.lang.String)[pri:0, instance:com.bankguru.payment.Level_22_Multiple_Environment@61a5b4ae]" name="afterClass" is-config="true" duration-ms="4462" started-at="2022-06-05T12:33:23Z" finished-at="2022-06-05T12:33:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.bankguru.payment.Level_22_Multiple_Environment -->
+    </test> <!-- Run on Chrome -->
+  </suite> <!-- Bank Guru -->
+</testng-results>

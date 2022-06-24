@@ -1,0 +1,11 @@
+[INFO ] [2022-06-05 13:33:07,775] Pre-Condition - Step 01: Open browserchrome
+[INFO ] [2022-06-05 13:33:23,513] Post-Condition: Close browserchrome
+[INFO ] [2022-06-05 13:33:23,515] OS name = windows 8.1
+[INFO ] [2022-06-05 13:33:23,575] Driver instance name = windows 8.1
+[INFO ] [2022-06-05 13:33:27,761] chrome not reachable
+  (Session info: chrome=102.0.5005.63)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'THULTK', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\thule\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58976}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 44b73f624f1c2e12d328ce8e4ca43c55

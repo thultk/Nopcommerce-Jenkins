@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Bank Guru]">
+  <parameter name="serverName" value="test"/>
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="reportConfig.MethodListener"/>
+  </listeners>
+  <test thread-count="5" name="Run on Chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.bankguru.payment.Level_22_Multiple_Environment">
+        <methods>
+          <include name="Employee_01_Add_New_Employee"/>
+          <include name="Employee_06_Assigned_Dependents"/>
+          <include name="Employee_04_Contact_Details"/>
+          <include name="afterClass"/>
+          <include name="Employee_02_Upload_Avatar"/>
+          <include name="deleteAllFileInFolder"/>
+          <include name="Employee_03_Personal_Details"/>
+          <include name="Employee_05_Emergency_Details"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.bankguru.payment.Level_22_Multiple_Environment -->
+    </classes>
+  </test> <!-- Run on Chrome(failed) -->
+</suite> <!-- Failed suite [Bank Guru] -->

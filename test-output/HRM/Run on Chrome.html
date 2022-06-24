@@ -1,0 +1,128 @@
+<html>
+<head>
+<title>TestNG:  Run on Chrome</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Run on Chrome</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Jan 23 15:08:37 GMT 2022</td>
+</tr>
+<tr><td>Total time:</td><td>32 seconds (32748 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.hrm.employee.Level_17_Live_Coding.Employee_01_Add_New_Employee()'><b>Employee_01_Add_New_Employee</b><br>Test class: com.hrm.employee.Level_17_Live_Coding<br/>
+<a href="#Output-1144653485" onClick='toggleBox("Output-1144653485", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1144653485" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1144653485">
+[INFO ] [2022-01-23 15:08:51,745] Add_New_01 - Step 01: Open 'Employee List' page
+<br/>
+[INFO ] [2022-01-23 15:08:55,482] Add_New_01 - Step 02: Click to 'Add' button
+<br/>
+[INFO ] [2022-01-23 15:08:59,300] Add_New_01 - Step 03: Enter valid info to 'First Name' textbox
+<br/>
+[INFO ] [2022-01-23 15:08:59,487] Add_New_01 - Step 04: Enter valid info to 'Last Name' textbox
+<br/>
+[INFO ] [2022-01-23 15:08:59,613] Add_New_01 - Step 05: Get value of 'Employee ID'
+<br/>
+[INFO ] [2022-01-23 15:08:59,666] Add_New_01 - Step 06: Click to 'Create Login Details' checkbox
+<br/>
+[INFO ] [2022-01-23 15:08:59,791] Add_New_01 - Step 07: Enter valid info to 'User Name' textbox
+<br/>
+[INFO ] [2022-01-23 15:08:59,920] Add_New_01 - Step 08: Enter valid info to 'Password' textbox
+<br/>
+[INFO ] [2022-01-23 15:09:00,061] Add_New_01 - Step 09: Enter valid info to 'Confirm Password' textbox
+<br/>
+[INFO ] [2022-01-23 15:09:00,190] Add_New_01 - Step 10: Select 'Enabled' value in 'Status' dropdown
+<br/>
+[INFO ] [2022-01-23 15:09:00,318] Add_New_01 - Step 11: Click to 'Save' button
+<br/>
+[INFO ] [2022-01-23 15:09:03,451] Add_New_01 - Step 12: Open 'Employee List' page
+<br/>
+[INFO ] [2022-01-23 15:09:06,083]  -------------------------- PASSED -------------------------- 
+<br/>
+[INFO ] [2022-01-23 15:09:06,097] Add_New_01 - Step 13: Enter valid info to 'Employee Name' textbox
+<br/>
+[INFO ] [2022-01-23 15:09:06,281]  -------------------------- PASSED -------------------------- 
+<br/>
+[INFO ] [2022-01-23 15:09:06,281] Add_New_01 - Step 14: Click to 'Search' button
+<br/>
+[INFO ] [2022-01-23 15:09:09,922]  -------------------------- PASSED -------------------------- 
+<br/>
+[INFO ] [2022-01-23 15:09:09,923] Add_New_01 - Step 15: Verify Employee Information displayed at 'Result table'
+<br/>
+[INFO ] [2022-01-23 15:09:10,020]  -------------------------- PASSED -------------------------- 
+<br/>
+</div>
+</td>
+<td></td>
+<td>18</td>
+<td>com.hrm.employee.Level_17_Live_Coding@6b739528</td></tr>
+</table><p>
+</body>
+</html>
