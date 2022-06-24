@@ -64,7 +64,7 @@ public class Level_22_Multiple_Environment extends BaseTest {
 
 	}
 
-	// @Test
+	@Test
 	public void Employee_10_Qualifications() {
 
 	}
