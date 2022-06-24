@@ -49,17 +49,17 @@ public class Level_22_Multiple_Environment extends BaseTest {
 
 	}
 
-	// @Test
+	@Test
 	public void Employee_07_Edit_View_Job() {
 
 	}
 
-	// @Test
+	@Test
 	public void Employee_08_Edit_View_Salary() {
 
 	}
 
-	// @Test
+	@Test
 	public void Employee_09_Edit_View_Tax() {
 
 	}
