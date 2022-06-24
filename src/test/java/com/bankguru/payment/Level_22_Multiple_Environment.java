@@ -24,15 +24,15 @@ public class Level_22_Multiple_Environment extends BaseTest {
 		// driver = getBrowserName(browserName, url);
 	}
 
-	@Test
+	// @Test
 	public void Employee_01_Add_New_Employee() {
 	}
 
-	@Test
+	// @Test
 	public void Employee_02_Upload_Avatar() {
 	}
 
-	@Test
+	// @Test
 	public void Employee_03_Personal_Details() {
 	}
 
