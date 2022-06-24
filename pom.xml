@@ -163,8 +163,8 @@
 				<configuration>
             <!-- Run TestNG xml file -->
 					<suiteXmlFiles>
-<!-- 						<file>src/test/resources/runBankGuruTestcases.xml</file> -->
-						<file>src/test/resources/runBankGuru${environment}.xml</file>
+						<file>src/test/resources/runBankGuruTestcases.xml</file>
+<!-- 						<file>src/test/resources/runBankGuru${environment}.xml</file> -->
 					</suiteXmlFiles>
 
 			<!-- Argument -->
