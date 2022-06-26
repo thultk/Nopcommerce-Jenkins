@@ -1,0 +1,24 @@
+node {
+    ansiColor('xterm') {
+    // some block
+    }
+    timestamps {
+    // some block
+    }
+    stage('Get code') {
+        git 'https://github.com/thultk/Nopcommerce-Jenkins'
+    }
+    stage('Compile code') {
+        bat 'mvn clean'
+    }
+    stage('Run test') {
+        bat 'mvn test'
+    }
+    stage('Publish report') {
+   		publishHTML([allowMissing: false, 
+   		alwaysLinkToLastBuild: false, 
+   		keepAll: false, reportDir: 'C:\\Program Files\\Jenkins\\workspace\\THU_PIPELINE_MAVEN_JENKINS\\target\\surefire-reports\\html', 
+   		reportFiles: 'index.html', 
+   		reportName: 'HTML Report', reportTitles: ''])
+   	}
+}
